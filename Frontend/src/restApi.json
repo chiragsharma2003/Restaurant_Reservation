@@ -1,0 +1,148 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD"
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE"
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY"
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./breakfast1.png",
+                "title": "Paneer Stuffed Paratha",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./breakfast2.png",
+                "title": "Rava Idli",
+                "category": "Breakfast"
+            },
+            {
+                "id": 3,
+                "image": "./lunch1.png",
+                "title": "Paneer Butter Masala",
+                "category": "Lunch"
+            },
+            {
+                "id": 4,
+                "image": "./lunch2.png",
+                "title": "Royal Vegetable Biryani",
+                "category": "Lunch"
+            },
+            {
+                "id": 5,
+                "image": "./lunch3.png",
+                "title": "Dal Makhani",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner1.png",
+                "title": "Malai Kofta",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner2.png",
+                "title": "Tandoori Paneer Platter",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner3.png",
+                "title": "Lachha Paratha",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "Harjeet",
+                "designation": "Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_3.png",
+                "name": "Niel",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_2.png",
+                "name": "Nabin",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "Laxmi",
+                "designation": "Senior Chef"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "7",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "5",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "10",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "50",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
